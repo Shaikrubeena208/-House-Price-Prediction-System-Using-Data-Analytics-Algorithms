@@ -1,6 +1,5 @@
-### LilHomie - Housing Price Prediction Rapid Prototype
-
-LilHomie is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the New York Tri-state Area. 
+###  - Housing Price Prediction Rapid Prototye
+It is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the New York Tri-state Area. 
 
 This repository contains all the associated work that has been done for the area which includes:
 * Web Crawler to gather housing data
